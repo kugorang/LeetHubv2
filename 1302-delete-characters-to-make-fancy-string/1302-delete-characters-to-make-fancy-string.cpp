@@ -16,8 +16,8 @@ public:
 
             if (previousChar != ch)
             {
-                isFancyCondition = false;
                 previousChar = ch;
+                isFancyCondition = false;
             }
             else
                 isFancyCondition = true;
