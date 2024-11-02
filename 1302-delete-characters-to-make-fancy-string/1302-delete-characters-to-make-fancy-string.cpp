@@ -5,6 +5,8 @@ public:
         bool isFancyCondition;
         string answer;
 
+        answer.reserve(s.size());
+
         for (auto ch : s)
         {
             if (isFancyCondition && previousChar == ch)
