@@ -1,9 +1,9 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        string answer;
+        char previousChar = '.';
         bool isFancyCondition;
-        char previousChar;
+        string answer;
 
         answer.reserve(s.size());
 
