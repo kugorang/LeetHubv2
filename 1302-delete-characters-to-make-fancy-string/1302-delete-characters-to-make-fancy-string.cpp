@@ -1,7 +1,7 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        char previousChar = '.';
+        char previousChar;
         bool isFancyCondition;
         string answer;
 
@@ -9,18 +9,19 @@ public:
 
         for (auto ch : s)
         {
-            if (isFancyCondition && previousChar == ch)
+            if (previousChar == ch && isFancyCondition)
                 continue;
     
             answer.push_back(ch);
 
-            if (previousChar != ch)
+            if (previousChar == ch)
             {
-                previousChar = ch;
-                isFancyCondition = false;
-            }
-            else
                 isFancyCondition = true;
+                continue;
+            }
+
+            previousChar = ch;
+            isFancyCondition = false;
         }
 
         return answer;
