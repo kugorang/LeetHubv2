@@ -6,7 +6,7 @@ public:
         string answer;
 
         int sSize = s.size();
-        answer.reserve(s.size());
+        answer.reserve(sSize);
 
         for (int i = 0; i < sSize; ++i)
         {
