@@ -5,10 +5,13 @@ public:
         bool isFancyCondition;
         string answer;
 
+        int sSize = s.size();
         answer.reserve(s.size());
 
-        for (auto ch : s)
+        for (int i = 0; i < sSize; ++i)
         {
+            char ch = s[i];
+
             if (previousChar == ch && isFancyCondition)
                 continue;
     
