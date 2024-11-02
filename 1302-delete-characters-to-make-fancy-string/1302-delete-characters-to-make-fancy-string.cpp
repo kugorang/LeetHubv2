@@ -1,7 +1,7 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        char previousChar = '@';
+        char previousChar = '.';
         bool isFancyCondition;
         string answer;
 
