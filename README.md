@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kugorang/LeetHubv2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/kugorang/LeetHubv2/tree/master/2580-circular-sentence) |
+| [3379-score-of-a-string](https://github.com/kugorang/LeetHubv2/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
