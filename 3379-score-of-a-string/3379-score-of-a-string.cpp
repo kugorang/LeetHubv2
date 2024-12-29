@@ -2,9 +2,9 @@ class Solution {
 public:
     int scoreOfString(string s) {
         unsigned short result = 0;
-        unsigned char strLen = s.length();
+        char i = 0;
 
-        for (unsigned char i = 1; i < strLen; ++i) {
+        while (s[++i]) {
             if (s[i] > s[i - 1])
                 result += (s[i] - s[i - 1]);
             else
