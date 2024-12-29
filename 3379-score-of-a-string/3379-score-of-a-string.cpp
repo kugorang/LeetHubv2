@@ -5,12 +5,10 @@ public:
         int strLen = s.length();
 
         for (int i = 1; i < strLen; ++i) {
-            int absDiff = s[i] - s[i - 1];
-
-            if (absDiff < 0)
-                absDiff *= -1;
-
-            result += absDiff;
+            if (s[i] > s[i - 1])
+                result += (s[i] - s[i - 1]);
+            else
+                result += (s[i - 1] - s[i]);
         }
 
         return result;
