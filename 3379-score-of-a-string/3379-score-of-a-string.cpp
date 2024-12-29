@@ -1,7 +1,7 @@
 class Solution {
 public:
     int scoreOfString(string s) {
-        int result = 0;
+        unsigned short result = 0;
         unsigned char strLen = s.length();
 
         for (unsigned char i = 1; i < strLen; ++i) {
