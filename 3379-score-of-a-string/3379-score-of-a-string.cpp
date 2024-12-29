@@ -1,8 +1,8 @@
 class Solution {
 public:
     int scoreOfString(string s) {
-        unsigned short result = 0;
-        size_t i = 0;
+        auto result = 0;
+        auto i = 0;
 
         while (s[++i]) {
             if (s[i] > s[i - 1])
