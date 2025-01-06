@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/kugorang/LeetHubv2/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/kugorang/LeetHubv2/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
+| [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
