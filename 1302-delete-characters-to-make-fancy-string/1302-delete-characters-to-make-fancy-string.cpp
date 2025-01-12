@@ -2,10 +2,10 @@ class Solution {
 public:
     string makeFancyString(string s) {
         string answer;
-        answer.reserve(s.size());
+        answer.reserve(s.length());
 
-        bool isFancy;
-        char prevChar;
+        bool isFancy = false;
+        char prevChar = '\0';
 
         for (auto ch : s)
         {
