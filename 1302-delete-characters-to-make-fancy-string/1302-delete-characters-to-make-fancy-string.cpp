@@ -2,8 +2,6 @@ class Solution {
 public:
     string makeFancyString(string s) {
         string answer;
-        answer.reserve(s.length());
-
         int targetCount = 0;
         char targetCh;
 
