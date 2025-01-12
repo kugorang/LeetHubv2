@@ -2,25 +2,24 @@ class Solution {
 public:
     string makeFancyString(string s) {
         int sLen = s.length();
-        
+
         string answer;
         answer.reserve(sLen);
-        answer.push_back(s[0]);
 
-        int targetCount = 1;
-        char targetCh = s[0];
+        int targetCount;
+        char targetCh ;
 
-        for (int i = 1; i < sLen; ++i)
+        for (auto ch : s)
         {
-            if (s[i] != targetCh)
+            if (ch != targetCh)
             {
-                targetCh = s[i];
+                targetCh = ch;
                 targetCount = 1;
 
-                answer.push_back(s[i]);
+                answer.push_back(ch);
             }
             else if (++targetCount < 3)
-                answer.push_back(s[i]);
+                answer.push_back(ch);
         }
 
         return answer;
