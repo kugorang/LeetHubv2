@@ -1,13 +1,11 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        int sLen = s.length();
-
         string answer;
-        answer.reserve(sLen);
+        answer.reserve(s.length());
 
         int targetCount;
-        char targetCh ;
+        char targetCh;
 
         for (auto ch : s)
         {
