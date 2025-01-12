@@ -9,18 +9,18 @@ public:
 
         for (auto ch : s)
         {
-            if (ch == targetCh)
-            {
-                if (++targetCount >= 3)
-                    continue;
-                
-                answer.push_back(ch);
-            }
-            else
+            if (ch != targetCh)
             {
                 targetCh = ch;
                 targetCount = 1;
 
+                answer.push_back(ch);
+            }
+            else
+            {
+                if (++targetCount >= 3)
+                    continue;
+                
                 answer.push_back(ch);
             }
         }
