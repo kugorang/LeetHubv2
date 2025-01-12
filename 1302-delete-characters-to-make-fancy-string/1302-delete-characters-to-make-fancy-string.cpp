@@ -4,20 +4,23 @@ public:
         string answer;
         answer.reserve(s.length());
 
-        int targetCount;
-        char targetCh;
+        bool isFancy = false;
+        char prevChar = '\0';
 
         for (auto ch : s)
         {
-            if (ch != targetCh)
+            if (prevChar == ch)
             {
-                answer.push_back(ch);
-
-                targetCh = ch;
-                targetCount = 1;
+                if (isFancy)
+                    continue;
+                else
+                    isFancy = true;
             }
-            else if (++targetCount < 3)
-                answer.push_back(ch);
+            else
+                isFancy = false;
+            
+            answer.push_back(ch);
+            prevChar = ch;
         }
 
         return answer;
