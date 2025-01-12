@@ -2,13 +2,15 @@ class Solution {
 public:
     string makeFancyString(string s) {
         int sLen = s.length();
+        
         string answer;
         answer.reserve(sLen);
-        
-        int targetCount;
-        char targetCh;
+        answer.push_back(s[0]);
 
-        for (int i = 0; i < sLen; ++i)
+        int targetCount = 1;
+        char targetCh = s[0];
+
+        for (int i = 1; i < sLen; ++i)
         {
             if (s[i] != targetCh)
             {
