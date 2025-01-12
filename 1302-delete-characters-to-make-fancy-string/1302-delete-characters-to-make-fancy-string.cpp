@@ -17,10 +17,12 @@ public:
                 isFancy = true;
             }
             else
+            {
                 isFancy = false;
-            
+                prevChar = ch;
+            }
+
             answer.push_back(ch);
-            prevChar = ch;
         }
 
         return answer;
