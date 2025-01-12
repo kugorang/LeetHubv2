@@ -7,19 +7,19 @@ public:
 
         answer.reserve(s.length());
 
-        for (auto ch : s)
+        for (char ch : s)
         {
-            if (prevChar == ch)
+            if (prevChar != ch)
+            {
+                prevChar = ch;
+                isFancy = false;
+            }
+            else
             {
                 if (isFancy)
                     continue;
 
                 isFancy = true;
-            }
-            else
-            {
-                prevChar = ch;
-                isFancy = false;
             }
 
             answer.push_back(ch);
