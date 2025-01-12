@@ -12,6 +12,8 @@ public:
             if (isFancy && prevChar == ch)
                 continue;
 
+            answer.push_back(ch);
+
             if (prevChar != ch)
             {
                 prevChar = ch;
@@ -19,8 +21,6 @@ public:
             }
             else
                 isFancy = true;
-
-            answer.push_back(ch);
         }
 
         return answer;
