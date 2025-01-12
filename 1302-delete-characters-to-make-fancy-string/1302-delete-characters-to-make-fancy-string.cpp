@@ -5,7 +5,7 @@ public:
         bool isFancyCondition;
         string answer;
 
-        answer.reserve(s.size());
+        answer.reserve(s.length());
 
         for (auto ch : s)
         {
