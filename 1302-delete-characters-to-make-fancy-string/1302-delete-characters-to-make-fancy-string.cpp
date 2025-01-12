@@ -9,18 +9,20 @@ public:
 
         for (auto ch : s)
         {
-            if (isFancy && prevChar == ch)
-                continue;
+            if (prevChar == ch)
+            {
+                if (isFancy)
+                    continue;
 
-            answer.push_back(ch);
-
-            if (prevChar != ch)
+                isFancy = true;
+            }
+            else
             {
                 prevChar = ch;
                 isFancy = false;
             }
-            else
-                isFancy = true;
+
+            answer.push_back(ch);
         }
 
         return answer;
