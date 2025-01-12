@@ -11,10 +11,10 @@ public:
         {
             if (ch != targetCh)
             {
+                answer.push_back(ch);
+
                 targetCh = ch;
                 targetCount = 1;
-
-                answer.push_back(ch);
             }
             else if (++targetCount < 3)
                 answer.push_back(ch);
