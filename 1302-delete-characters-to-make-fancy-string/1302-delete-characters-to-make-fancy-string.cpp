@@ -1,28 +1,26 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        char prevChar;
-        bool isFancy;
+        char previousChar;
+        bool isFancyCondition;
         string answer;
 
         answer.reserve(s.length());
 
-        for (char ch : s)
+        for (auto ch : s)
         {
-            if (prevChar != ch)
-            {
-                prevChar = ch;
-                isFancy = false;
-            }
-            else
-            {
-                if (isFancy)
-                    continue;
-
-                isFancy = true;
-            }
+            if (isFancyCondition && previousChar == ch)
+                continue;
 
             answer.push_back(ch);
+
+            if (previousChar != ch)
+            {
+                previousChar = ch;
+                isFancyCondition = false;
+            }
+            else
+                isFancyCondition = true;
         }
 
         return answer;
