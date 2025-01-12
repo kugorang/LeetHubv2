@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
+| [1205-defanging-an-ip-address](https://github.com/kugorang/LeetHubv2/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kugorang/LeetHubv2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2580-circular-sentence](https://github.com/kugorang/LeetHubv2/tree/master/2580-circular-sentence) |
