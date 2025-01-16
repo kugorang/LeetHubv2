@@ -3,17 +3,17 @@ public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         unsigned char numsSize = nums.size();
 
+        vector<bool> arr(numsSize, false);
+
         vector<int> answer;
         answer.reserve(numsSize);
 
-        vector<bool> arr(numsSize, false);
-
         for (auto num : nums)
         {
-            if (arr[num])
-                answer.push_back(num);
-            else
+            if (!arr[num])
                 arr[num] = true;
+            else
+                answer.push_back(num);
         }
 
         return answer;
