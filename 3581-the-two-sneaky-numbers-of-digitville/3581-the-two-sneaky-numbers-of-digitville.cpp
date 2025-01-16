@@ -4,7 +4,7 @@ public:
         vector<int> answer;
         answer.reserve(nums.size());
 
-        bool arr[101] = { false, };
+        bool arr[100] = { false, };
 
         for (auto num : nums)
         {
