@@ -1,10 +1,12 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        vector<int> answer;
-        answer.reserve(nums.size());
+        unsigned char numsSize = nums.size();
 
-        bool arr[100] = { false, };
+        vector<int> answer;
+        answer.reserve(numsSize);
+
+        vector<bool> arr(numsSize, false);
 
         for (auto num : nums)
         {
