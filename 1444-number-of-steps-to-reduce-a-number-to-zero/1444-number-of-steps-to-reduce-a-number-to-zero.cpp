@@ -5,7 +5,7 @@ public:
 
         while (num > 0)
         {
-            num = num % 2 ? num - 1 : num / 2;
+            num = num % 2 ? num - 1 : num * 0.5f;
             ++answer;
         }
         
