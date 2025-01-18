@@ -1,14 +1,14 @@
 class Solution {
 public:
     int numberOfSteps(int num) {
-        int answer = 0;
+        int count = 0;
 
         while (num > 0)
         {
             num = num % 2 ? num - 1 : num * 0.5f;
-            ++answer;
+            ++count;
         }
-        
-        return answer;
+
+        return count;
     }
 };
