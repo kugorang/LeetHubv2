@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfSteps(int num) {
-        unsigned char answer = 0;
+        int answer = 0;
 
         while (num > 0)
         {
