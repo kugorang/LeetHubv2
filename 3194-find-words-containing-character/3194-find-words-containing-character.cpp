@@ -9,11 +9,11 @@ public:
         for (int i = 0; i < wordsSize; ++i)
         {
             bool findChar = false;
-            string currentStr = words[i];
-            int wordSize = currentStr.size();
+            string str = words[i];
+            int strLen = str.length();
 
-            for (int j = 0; j < wordSize; ++j)
-                if (currentStr[j] == x)
+            for (int j = 0; j < strLen; ++j)
+                if (str[j] == x)
                 {
                     findChar = true;
                     break;
