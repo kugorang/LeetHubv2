@@ -4,11 +4,11 @@ public:
         vector<int> answer;
         answer.reserve(words.size());
 
-        for (int i = 0; i < words.size(); ++i)
+        for (size_t i = 0; i < words.size(); ++i)
         {
             bool findChar = false;
 
-            for (int j = 0; j < words[i].length(); ++j)
+            for (size_t j = 0; j < words[i].length(); ++j)
                 if (words[i][j] == x)
                 {
                     findChar = true;
