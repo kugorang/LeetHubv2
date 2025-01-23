@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> findWordsContaining(vector<string>& words, char x) {
-        size_t wordsSize = words.size();
+        auto wordsSize = words.size();
 
         vector<int> answer;
         answer.reserve(wordsSize);
 
-        for (size_t i = 0; i < wordsSize; ++i)
+        for (auto i = 0; i < wordsSize; ++i)
         {
-            bool findChar = false;
-            size_t wordLength = words[i].length();
+            auto findChar = false;
+            auto wordLength = words[i].length();
 
-            for (size_t j = 0; j < wordLength; ++j)
+            for (auto j = 0; j < wordLength; ++j)
                 if (words[i][j] == x)
                 {
                     findChar = true;
