@@ -1,6 +1,11 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
+        bool allowedCh[26] = { false, };    // 0: 'a', 1: 'b', ..., 25: 'z'
+
+        for (auto ch : allowed)
+            allowedCh[ch - 'a'] = true;
+    
         int count = 0;
 
         for (auto word : words)
@@ -9,9 +14,9 @@ public:
 
             for (auto ch : word)
             {
-                if (allowed.contains(ch))
+                if (allowedCh[ch - 'a'])
                     continue;
-                
+
                 isContained = false;
                 break;
             }
