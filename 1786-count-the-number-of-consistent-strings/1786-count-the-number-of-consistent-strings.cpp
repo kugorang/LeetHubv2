@@ -1,20 +1,20 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        bool allowedCh['a' + 26] = { false, };    // 0: 'a', 1: 'b', ..., 25: 'z'
+        bool allowedCh[26] = { false, };    // 0: 'a', 1: 'b', ..., 25: 'z'
 
-        for (char ch : allowed)
-            allowedCh[ch] = true;
+        for (auto ch : allowed)
+            allowedCh[ch - 'a'] = true;
     
         int count = 0;
 
-        for (string word : words)
+        for (auto word : words)
         {
             bool isContained = true;
 
-            for (char ch : word)
+            for (auto ch : word)
             {
-                if (allowedCh[ch])
+                if (allowedCh[ch - 'a'])
                     continue;
 
                 isContained = false;
