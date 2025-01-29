@@ -9,11 +9,11 @@ public:
 
             for (auto ch : word)
             {
-                if (!allowed.contains(ch))
-                {
-                    isContained = false;
-                    break;
-                }
+                if (allowed.contains(ch))
+                    continue;
+                
+                isContained = false;
+                break;
             }
 
             if (isContained)
