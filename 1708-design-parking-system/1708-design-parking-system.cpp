@@ -9,7 +9,7 @@ public:
     }
     
     bool addCar(int carType) {
-        return (cars[carType]-- > 0);
+        return (--cars[carType] >= 0);
     }
 };
 
