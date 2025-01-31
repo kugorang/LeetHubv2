@@ -1,6 +1,6 @@
 class ParkingSystem {
 private:
-    int cars[4];
+    short cars[4];
 public:
     ParkingSystem(int big, int medium, int small) {
         cars[1] = big;
