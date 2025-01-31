@@ -1,6 +1,6 @@
 class ParkingSystem {
 private:
-    size_t cars[4];
+    int cars[4];
 public:
     ParkingSystem(int big, int medium, int small) {
         cars[1] = big;
@@ -9,12 +9,7 @@ public:
     }
     
     bool addCar(int carType) {
-        if (cars[carType] > 0)
-        {
-            --cars[carType];
-            return true;
-        }
-        return false;
+        return (cars[carType]-- > 0);
     }
 };
 
