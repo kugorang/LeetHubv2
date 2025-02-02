@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kugorang/LeetHubv2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/kugorang/LeetHubv2/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/kugorang/LeetHubv2/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/kugorang/LeetHubv2/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kugorang/LeetHubv2/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kugorang/LeetHubv2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/kugorang/LeetHubv2/tree/master/1708-design-parking-system) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
