@@ -1,17 +1,18 @@
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+        size_t candiesSize = candies.size();
         vector<bool> answer;
-        answer.reserve(candies.size());
+        answer.reserve(candiesSize);
 
-        int maxCandies = 0;
+        size_t maxCandies = 0;
 
-        for (auto candy : candies)
-            if (candy > maxCandies)
-                maxCandies = candy;
+        for (size_t i = 0; i < candiesSize; ++i)
+            if (candies[i] > maxCandies)
+                maxCandies = candies[i];
             
-        for (auto candy : candies)
-            answer.push_back(candy + extraCandies >= maxCandies);
+        for (size_t i = 0; i < candiesSize; ++i)
+            answer.push_back(candies[i] + extraCandies >= maxCandies);
 
         return answer;
     }
