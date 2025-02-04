@@ -5,9 +5,9 @@ public:
         size_t tLen = t.length();
         int answer = 0;
 
-        for (size_t i = 0; i < sLen; ++i)
+        for (int i = 0; i < sLen; ++i)
         {
-            for (size_t j = 0; j < tLen; ++j)
+            for (int j = 0; j < tLen; ++j)
             {
                 if (s[i] == t[j])
                 {
