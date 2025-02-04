@@ -9,11 +9,11 @@ public:
         {
             for (int j = 0; j < tLen; ++j)
             {
-                if (s[i] == t[j])
-                {
-                    answer += (i >= j ? i - j : j - i);
-                    break;
-                }
+                if (s[i] != t[j])
+                    continue;
+
+                answer += abs(i - j);
+                break;
             }
         }
 
