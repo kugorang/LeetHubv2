@@ -1,11 +1,11 @@
 class Solution {
 public:
     string interpret(string command) {
-        size_t commandLen = command.length();
+        int commandLen = command.length();
         string answer;
         answer.reserve(commandLen);
 
-        for (size_t i = 0; i < commandLen; ++i)
+        for (int i = 0; i < commandLen; ++i)
         {
             char ch = command[i];
 
