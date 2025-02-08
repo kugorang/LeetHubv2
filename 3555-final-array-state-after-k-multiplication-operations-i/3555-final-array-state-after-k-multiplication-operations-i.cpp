@@ -1,13 +1,13 @@
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        int numsSize = nums.size();
+        size_t numsSize = nums.size();
 
-        for (int i = 0; i < k; ++i)
+        for (size_t i = 0; i < k; ++i)
         {
-            int minIndex = 0;
+            size_t minIndex = 0;
 
-            for (int j = 1; j < numsSize; ++j)
+            for (size_t j = 1; j < numsSize; ++j)
                 if (nums[minIndex] > nums[j])
                     minIndex = j;
             
