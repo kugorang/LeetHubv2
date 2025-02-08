@@ -3,7 +3,7 @@ public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
         size_t numsSize = nums.size();
         size_t minIndex = 0;
-        size_t j = 1;
+        size_t j;
 
         for (size_t i = 0; i < k; ++i)
         {
