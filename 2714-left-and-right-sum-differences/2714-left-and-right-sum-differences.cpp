@@ -20,10 +20,7 @@ public:
         answer.reserve(numsSize);
 
         for (int i = 0; i < numsSize; ++i)
-            if (leftSum[i] >= rightSum[numsSize - 1 - i])
-                answer.push_back(leftSum[i] - rightSum[numsSize - 1 - i]);
-            else
-                answer.push_back(rightSum[numsSize - 1 - i] - leftSum[i]);
+            answer.push_back(abs(leftSum[i] - rightSum[numsSize - 1 - i]));
 
         return answer;
     }
