@@ -10,7 +10,7 @@ public:
         rightSum.reserve(numsSize);
         rightSum.push_back(0);
 
-        for (int i = 1; i < numsSize; ++i)
+        for (short i = 1; i < numsSize; ++i)
         {
             leftSum.push_back(leftSum[i - 1] + nums[i - 1]);
             rightSum.push_back(rightSum[i - 1] + nums[numsSize - i]);
@@ -21,7 +21,7 @@ public:
         vector<int> answer;
         answer.reserve(numsSize);
 
-        for (int i = 0; i < numsSize; ++i)
+        for (short i = 0; i < numsSize; ++i)
             answer.push_back(abs(leftSum[i] - rightSum[i]));
 
         return answer;
