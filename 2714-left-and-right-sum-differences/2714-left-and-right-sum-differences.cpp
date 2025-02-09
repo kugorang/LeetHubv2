@@ -19,7 +19,7 @@ public:
         vector<int> answer;
         answer.reserve(numsSize);
 
-        for (short i = 0; i < numsSize; ++i)
+        for (int i = 0; i < numsSize; ++i)
             answer.push_back(abs(leftSum[i] - rightSum[numsSize - 1 - i]));
 
         return answer;
