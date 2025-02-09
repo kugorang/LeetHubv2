@@ -15,14 +15,12 @@ public:
             leftSum.push_back(leftSum[i - 1] + nums[i - 1]);
             rightSum.push_back(rightSum[i - 1] + nums[numsSize - i]);
         }
-        
-        reverse(rightSum.begin(), rightSum.end());
 
         vector<int> answer;
         answer.reserve(numsSize);
 
         for (short i = 0; i < numsSize; ++i)
-            answer.push_back(abs(leftSum[i] - rightSum[i]));
+            answer.push_back(abs(leftSum[i] - rightSum[numsSize - 1 - i]));
 
         return answer;
     }
