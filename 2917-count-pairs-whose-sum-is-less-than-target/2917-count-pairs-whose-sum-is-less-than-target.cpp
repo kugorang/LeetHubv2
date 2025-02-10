@@ -1,11 +1,11 @@
 class Solution {
 public:
     int countPairs(vector<int>& nums, int target) {
-        int answer = 0;
-        int numsSize = nums.size();
+        unsigned short answer = 0;
+        unsigned short numsSize = nums.size();
 
-        for (int i = 0; i < numsSize - 1; ++i)
-            for (int j = i + 1; j < numsSize; ++j)
+        for (unsigned short i = 0; i < numsSize - 1; ++i)
+            for (unsigned short j = i + 1; j < numsSize; ++j)
                 if (nums[i] + nums[j] < target)
                     ++answer;
 
