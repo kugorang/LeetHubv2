@@ -6,25 +6,23 @@ public:
         string answer;
         answer.reserve(wordLength);
 
-        short index = -1;
+        unsigned char i = 255;
 
-        for (unsigned char i = 0; i < wordLength; ++i)
+        while (++i < wordLength)
         {
             if (word[i] == ch)
             {
-                index = i;
+                for (short j = i; j >= 0; --j)
+                    answer.push_back(word[j]);
+                for (short j = i + 1; j < wordLength; ++j)
+                    answer.push_back(word[j]);
+
                 break;
             }
         }
 
-        if (index == -1)
+        if (i == wordLength)
             return word;
-        
-        for (short i = index; i >= 0; --i)
-            answer.push_back(word[i]);
-        for (short i = index + 1; i < wordLength; ++i)
-            answer.push_back(word[i]);
-
         return answer;
     }
 };
