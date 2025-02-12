@@ -13,7 +13,7 @@ public:
 
                 if (nums[i] > nums[j])
                     ++answer[i];
-                else if (nums[i] < nums[j])
+                else
                     ++answer[j];
             }
         }
