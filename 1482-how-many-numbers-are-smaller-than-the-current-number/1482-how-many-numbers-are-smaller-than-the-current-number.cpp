@@ -8,12 +8,9 @@ public:
         {
             for (unsigned short j = i + 1; j < numsSize; ++j)
             {
-                if (nums[i] == nums[j])
-                    continue;
-
                 if (nums[i] > nums[j])
                     ++answer[i];
-                else
+                else if (nums[i] < nums[j])
                     ++answer[j];
             }
         }
