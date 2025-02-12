@@ -2,17 +2,18 @@ class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
         unsigned short numsSize = nums.size();
-        vector<int> answer(numsSize);
+        vector<int> answer;
+        answer.reserve(numsSize);
 
-        for (unsigned short i = 0; i < numsSize - 1; ++i)
+        for (unsigned short i = 0; i < numsSize; ++i)
         {
-            for (unsigned short j = i + 1; j < numsSize; ++j)
-            {
+            unsigned short count = 0;
+
+            for (unsigned short j = 0; j < numsSize; ++j)
                 if (nums[i] > nums[j])
-                    ++answer[i];
-                else if (nums[i] < nums[j])
-                    ++answer[j];
-            }
+                    ++count;
+            
+            answer.push_back(count);
         }
 
         return answer;
