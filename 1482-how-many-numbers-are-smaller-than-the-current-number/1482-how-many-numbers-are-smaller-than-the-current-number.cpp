@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        int numsSize = nums.size();
+        short numsSize = nums.size();
         vector<int> answer(numsSize);
 
-        for (int i = 0; i < numsSize - 1; ++i)
+        for (short i = 0; i < numsSize - 1; ++i)
         {
-            for (int j = i + 1; j < numsSize; ++j)
+            for (short j = i + 1; j < numsSize; ++j)
             {
                 if (nums[i] > nums[j])
                     ++answer[i];
