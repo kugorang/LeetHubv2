@@ -4,16 +4,16 @@ public:
         int numsSize = nums.size();
         vector<int> answer(numsSize);
 
-        for (int i = 0; i < numsSize; ++i)
+        for (int i = 0; i < numsSize - 1; ++i)
         {
             int count = 0;
 
             for (int j = i + 1; j < numsSize; ++j)
             {
                 if (nums[i] > nums[j])
-                    answer[i] += 1;
+                    ++answer[i];
                 else if (nums[i] < nums[j])
-                    answer[j] += 1;
+                    ++answer[j];
             }
         }
 
