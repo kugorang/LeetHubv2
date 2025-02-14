@@ -6,10 +6,8 @@ public:
 
         while (n > 0)
         {
-            unsigned char targetNum = n % 10;
-
-            product *= targetNum;
-            sum += targetNum;
+            product *= n % 10;
+            sum += n % 10;
 
             n /= 10;
         }
