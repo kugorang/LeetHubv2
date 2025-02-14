@@ -2,7 +2,7 @@ class Solution {
 public:
     int subtractProductAndSum(int n) {
         size_t product = 1;
-        unsigned short sum = 0;
+        unsigned int sum = 0;
 
         while (n > 0)
         {
