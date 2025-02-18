@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/kugorang/LeetHubv2/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/kugorang/LeetHubv2/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/kugorang/LeetHubv2/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/kugorang/LeetHubv2/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/kugorang/LeetHubv2/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/kugorang/LeetHubv2/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kugorang/LeetHubv2/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kugorang/LeetHubv2/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
