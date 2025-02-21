@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/kugorang/LeetHubv2/tree/master/1791-richest-customer-wealth) |
+| [1944-truncate-sentence](https://github.com/kugorang/LeetHubv2/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kugorang/LeetHubv2/tree/master/1797-goal-parser-interpretation) |
+| [1944-truncate-sentence](https://github.com/kugorang/LeetHubv2/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2580-circular-sentence](https://github.com/kugorang/LeetHubv2/tree/master/2580-circular-sentence) |
