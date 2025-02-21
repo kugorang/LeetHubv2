@@ -1,15 +1,16 @@
 class Solution {
 public:
     string truncateSentence(string s, int k) {
-        int spaceCount = 0;
-        int sSize = 0;
+        unsigned short spaceCount = 0;
+        unsigned short answerIndex = 0;
+        unsigned short sLength = s.length();
 
-        for (auto &ch : s)
+        for (unsigned short i = 0; i < sLength; ++i)
         {
-            if (ch == ' ')
+            if (s[i] == ' ')
                 if (++spaceCount == k)
-                    return s.substr(0, sSize);
-            ++sSize;
+                    return s.substr(0, answerIndex);
+            ++answerIndex;
         }
 
         return s;
