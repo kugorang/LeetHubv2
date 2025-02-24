@@ -4,21 +4,21 @@ public:
         int edgesSize = edges.size();
         vector<int> nodesCount(edgesSize + 2, 0);
 
+        int answerIndex = 0;
+        int answerValue = 0;
+
         for (auto &edge : edges)
         {
-            nodesCount[edge[0]] += 1;
-            nodesCount[edge[1]] += 1;
-        }
-
-        int answerIndex = 1;
-        int answerValue = nodesCount[1];
-
-        for (int i = 2; i < edgesSize + 2; ++i)
-        {
-            if (nodesCount[i] > answerValue)
+            if (++nodesCount[edge[0]] > answerValue)
             {
-                answerIndex = i;
-                answerValue = nodesCount[i];
+                answerIndex = edge[0];
+                answerValue = nodesCount[edge[0]];
+            }
+
+            if (++nodesCount[edge[1]] > answerValue)
+            {
+                answerIndex = edge[1];
+                answerValue = nodesCount[edge[1]];
             }
         }
 
