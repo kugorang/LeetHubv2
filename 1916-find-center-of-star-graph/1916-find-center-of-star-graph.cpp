@@ -1,27 +1,20 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        int edgesSize = edges.size();
-        vector<int> nodesCount(edgesSize + 2, 0);
-
-        int answerIndex = 0;
-        int answerValue = 0;
+        unordered_map<int, int> degree;
 
         for (auto &edge : edges)
         {
-            if (++nodesCount[edge[0]] > answerValue)
-            {
-                answerIndex = edge[0];
-                answerValue = nodesCount[edge[0]];
-            }
-
-            if (++nodesCount[edge[1]] > answerValue)
-            {
-                answerIndex = edge[1];
-                answerValue = nodesCount[edge[1]];
-            }
+            ++degree[edge[0]];
+            ++degree[edge[1]];
         }
 
-        return answerIndex;
+        int edgesSize = edges.size();
+
+        for (pair<int, int> nodes : degree)
+            if (nodes.second == edgesSize)
+                return nodes.first;
+
+        return -1;
     }
 };
