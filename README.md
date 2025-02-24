@@ -147,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kugorang/LeetHubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/kugorang/LeetHubv2/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
