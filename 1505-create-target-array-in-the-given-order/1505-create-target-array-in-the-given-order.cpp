@@ -9,7 +9,7 @@ public:
         vector<int>::iterator targetIt = target.begin();
 
         for (unsigned char i = 0; i < numsSize; ++i)
-            target.insert(targetIt + index[i], nums[i]);
+            target.insert(targetIt + index.at(i), nums.at(i));
             
         return target;
     }
