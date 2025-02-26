@@ -10,7 +10,7 @@ public:
         vector<string> answer;
         answer.reserve(namesSize);
         
-        for (auto pair : tempMap)
+        for (auto &pair : tempMap)
             answer.push_back(pair.second);
         
         return answer;
