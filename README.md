@@ -157,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/kugorang/LeetHubv2/tree/master/1916-find-center-of-star-graph) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/kugorang/LeetHubv2/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/kugorang/LeetHubv2/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
