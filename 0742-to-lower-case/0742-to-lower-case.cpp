@@ -3,7 +3,7 @@ public:
     string toLowerCase(string s) {
         for (auto &ch : s)
             if (ch >= 'A' && ch <= 'Z')
-                ch += ('a' - 'A');
+                ch += 32;
                 
         return s;
     }
