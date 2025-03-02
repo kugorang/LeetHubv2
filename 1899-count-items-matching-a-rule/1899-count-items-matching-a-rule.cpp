@@ -13,7 +13,7 @@ public:
 
     int countMatches(vector<vector<string>>& items, string ruleKey, string ruleValue)
     {
-        int answer = 0;
+        unsigned short answer = 0;
 
         for (auto &item : items)
             if (item[um[ruleKey]] == ruleValue)
