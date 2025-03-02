@@ -2,8 +2,7 @@ class Solution {
 private:
     unordered_map<string, int> um;
 public:
-    Solution()
-    {
+    Solution() {
         um = {
             {"type", 0},
             {"color", 1},
@@ -11,8 +10,7 @@ public:
         };
     }
 
-    int countMatches(vector<vector<string>>& items, string ruleKey, string ruleValue)
-    {
+    int countMatches(vector<vector<string>>& items, string ruleKey, string ruleValue) {
         unsigned short answer = 0;
 
         for (auto &item : items)
