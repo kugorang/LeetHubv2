@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<int> numberGame(vector<int>& nums) {
-        int numsSize = nums.size();
+        unsigned char numsSize = nums.size();
 
         vector<int> answer;
         answer.reserve(numsSize);
 
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < numsSize; i += 2)
+        for (unsigned char i = 0; i < numsSize; i += 2)
         {
             if (i + 1 == numsSize)
                 answer.push_back(nums[i]);
