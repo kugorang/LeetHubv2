@@ -1,11 +1,12 @@
 class Solution {
 public:
     vector<int> numberGame(vector<int>& nums) {
+        int numsSize = nums.size();
+
         vector<int> answer;
+        answer.reserve(numsSize);
 
         sort(nums.begin(), nums.end());
-
-        int numsSize = nums.size();
 
         for (int i = 0; i < numsSize; i += 2)
         {
