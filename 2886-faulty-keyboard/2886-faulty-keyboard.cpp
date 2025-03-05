@@ -1,20 +1,20 @@
 class Solution {
 public:
     string finalString(string s) {
-        int sLength = s.length();
+        unsigned char sLength = s.length();
         string answer;
         answer.reserve(sLength);
 
-        for (int i = 0; i < sLength; ++i)
+        for (unsigned char i = 0; i < sLength; ++i)
         {
             if (s[i] == 'i')
             {
-                int answerLength = answer.length();
-                int loopEnd = answerLength >> 1;
+                unsigned char answerLength = answer.length();
+                unsigned char loopEnd = answerLength >> 1;
 
-                for (int j = 0; j < loopEnd; ++j)
+                for (unsigned char j = 0; j < loopEnd; ++j)
                 {
-                    char temp = answer[j];
+                    unsigned char temp = answer[j];
                     answer[j] = answer[answerLength - 1 - j];
                     answer[answerLength - 1 - j] = temp;
                 }
