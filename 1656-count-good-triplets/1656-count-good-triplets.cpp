@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
+    int countGoodTriplets(vector<int>& arr, int a, int b, int c) 
+    {
         int answer = 0;
         int arrSize = arr.size();
 
@@ -8,13 +9,12 @@ public:
         {
             for (int j = i + 1; j < arrSize - 1; ++j)
             {
+                if (abs(arr[i] - arr[j]) > a)
+                    continue;
+
                 for (int k = j + 1; k < arrSize; ++k)
-                {
-                    if (abs(arr[i] - arr[j]) <= a
-                    && abs(arr[j] - arr[k]) <= b
-                    && abs(arr[i] - arr[k]) <= c)
+                    if (abs(arr[j] - arr[k]) <= b && abs(arr[i] - arr[k]) <= c)
                         ++answer;
-                }
             }
         }
 
