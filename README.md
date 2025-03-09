@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/kugorang/LeetHubv2/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/kugorang/LeetHubv2/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/kugorang/LeetHubv2/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/kugorang/LeetHubv2/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kugorang/LeetHubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -185,5 +186,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/kugorang/LeetHubv2/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kugorang/LeetHubv2/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
