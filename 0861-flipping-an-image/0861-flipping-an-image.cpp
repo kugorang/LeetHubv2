@@ -8,12 +8,14 @@ public:
         {
             for (unsigned char i = 0; i < loopEnd; ++i)
             {
+                unsigned char endIndex = n - 1 - i;
+
                 int tmp = row[i];
-                row[i] = row[n - 1 - i];
-                row[n - 1 - i] = tmp;
+                row[i] = row[endIndex];
+                row[endIndex] = tmp;
 
                 row[i] = (row[i] == 0 ? 1 : 0);
-                row[n - 1 - i] = (row[n - 1 - i] == 0 ? 1 : 0);
+                row[endIndex] = (row[endIndex] == 0 ? 1 : 0);
             }
 
             if (n % 2 == 1 || loopEnd == 0)
