@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<vector<int>> flipAndInvertImage(vector<vector<int>>& image) {
-        int n = image.size();
-        int loopEnd = n >> 1;
+        unsigned char n = image.size();
+        unsigned char loopEnd = n >> 1;
 
         for (auto &row : image)
         {
-            for (int i = 0; i < loopEnd; ++i)
+            for (unsigned char i = 0; i < loopEnd; ++i)
             {
                 int tmp = row[i];
                 row[i] = row[n - 1 - i];
