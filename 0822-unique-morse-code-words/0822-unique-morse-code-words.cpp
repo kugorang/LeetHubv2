@@ -14,7 +14,7 @@ public:
             string currentMorse = "";
 
             for (auto &ch : word)
-                currentMorse += morse[ch - 'a'];
+                currentMorse.append(morse[ch - 'a']);
             
             um.insert(make_pair(currentMorse, true));
         }
