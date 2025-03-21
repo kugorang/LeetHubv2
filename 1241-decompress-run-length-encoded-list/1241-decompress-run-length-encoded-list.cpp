@@ -4,7 +4,6 @@ public:
         unsigned char numsSize = nums.size();
         unsigned char loopEnd = numsSize >> 1;
         vector<int> answer;
-        answer.reserve(numsSize);
 
         for (unsigned char i = 0; i < loopEnd; i++)
             for (unsigned char j = 0; j < nums[i << 1]; ++j)
