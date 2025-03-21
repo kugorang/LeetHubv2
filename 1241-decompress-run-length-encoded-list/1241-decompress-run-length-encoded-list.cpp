@@ -7,8 +7,8 @@ public:
         answer.reserve(numsSize);
 
         for (unsigned char i = 0; i < loopEnd; i++)
-            for (unsigned char j = 0; j < nums[2 * i]; ++j)
-                answer.push_back(nums[2 * i + 1]);
+            for (unsigned char j = 0; j < nums[i << 1]; ++j)
+                answer.push_back(nums[(i << 1) + 1]);
         
         return answer;
     }
