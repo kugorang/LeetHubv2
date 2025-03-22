@@ -7,16 +7,11 @@ public:
         
         vector<double> averages;
         averages.reserve(numsSize >> 1);
+        
+        unsigned char loopEnd = numsSize >> 1;
 
-        while (numsSize > 0)
-        {
-            averages.push_back((double)(nums[0] + nums[numsSize - 1]) / 2);
-
-            nums.erase(nums.begin() + numsSize - 1);
-            nums.erase(nums.begin());
-
-            numsSize -= 2;
-        }
+        for (int i = 0; i < loopEnd; ++i)
+            averages.push_back((double)(nums[i] + nums[numsSize - 1 - i]) / 2);
 
         sort(averages.begin(), averages.end());
 
