@@ -2,7 +2,7 @@ class Solution {
 public:
     double minimumAverage(vector<int>& nums)
     {
-        int numsSize = nums.size();
+        unsigned char numsSize = nums.size();
         vector<double> averages;
         averages.reserve(numsSize >> 1);
 
@@ -11,9 +11,9 @@ public:
             double max = 0;
             double min = 51;
 
-            int minIndex = -1;
+            unsigned char minIndex = -1;
 
-            for (int i = 0; i < numsSize; ++i)
+            for (unsigned char i = 0; i < numsSize; ++i)
             {
                 if (min > nums[i])
                 {
