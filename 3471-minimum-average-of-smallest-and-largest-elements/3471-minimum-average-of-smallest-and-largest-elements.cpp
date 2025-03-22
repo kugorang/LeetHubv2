@@ -2,9 +2,9 @@ class Solution {
 public:
     double minimumAverage(vector<int>& nums)
     {
-        unsigned char numsSize = nums.size();
         sort(nums.begin(), nums.end());
-
+        unsigned char numsSize = nums.size();
+        
         vector<double> averages;
         averages.reserve(numsSize >> 1);
 
