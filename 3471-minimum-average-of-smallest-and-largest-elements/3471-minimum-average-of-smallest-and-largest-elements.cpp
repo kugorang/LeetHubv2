@@ -8,8 +8,8 @@ public:
 
         while (numsSize > 0)
         {
-            double max = 0;
-            double min = 51;
+            unsigned char max = 0;
+            unsigned char min = 51;
 
             unsigned char minIndex = -1;
 
@@ -25,7 +25,7 @@ public:
                     max = nums[i];
             }
 
-            averages.push_back((min + max) / 2);
+            averages.push_back((double)(min + max) / 2);
 
             nums.erase(nums.begin() + minIndex);
             nums.erase(find(nums.begin(), nums.end(), max));
