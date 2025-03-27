@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/kugorang/LeetHubv2/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kugorang/LeetHubv2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kugorang/LeetHubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kugorang/LeetHubv2/tree/master/1797-goal-parser-interpretation) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
