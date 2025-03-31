@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/kugorang/LeetHubv2/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kugorang/LeetHubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/kugorang/LeetHubv2/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kugorang/LeetHubv2/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/kugorang/LeetHubv2/tree/master/3226-minimum-number-game) |
 | [3429-special-array-i](https://github.com/kugorang/LeetHubv2/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kugorang/LeetHubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kugorang/LeetHubv2/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kugorang/LeetHubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/kugorang/LeetHubv2/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kugorang/LeetHubv2/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kugorang/LeetHubv2/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kugorang/LeetHubv2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
