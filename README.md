@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kugorang/LeetHubv2/tree/master/1241-decompress-run-length-encoded-list) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/kugorang/LeetHubv2/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
