@@ -2,11 +2,14 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         string str = to_string(x);
+        unsigned char strLength = str.length();
 
-        int strLength = str.length();
-        int loopEnd = strLength >> 1;
+        if (str[0] == '-' || (strLength >= 2 && str[strLength - 1] == '0'))
+            return false;
 
-        for (int i = 0; i <= loopEnd; ++i)
+        unsigned char loopEnd = strLength >> 1;
+
+        for (unsigned char i = 0; i <= loopEnd; ++i)
             if (str[i] != str[strLength - 1 - i])
                 return false;
 
