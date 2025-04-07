@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kugorang/LeetHubv2/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kugorang/LeetHubv2/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kugorang/LeetHubv2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/kugorang/LeetHubv2/tree/master/0742-to-lower-case) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/kugorang/LeetHubv2/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
