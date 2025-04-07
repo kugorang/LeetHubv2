@@ -1,10 +1,10 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int sLength = s.length();
-        int answer = 0;
+        unsigned char sLength = s.length();
+        unsigned short answer = 0;
 
-        for (int i = 0; i < sLength; ++i)
+        for (unsigned char i = 0; i < sLength; ++i)
         {
             if (s[i] == 'M')
                 answer += 1000;
