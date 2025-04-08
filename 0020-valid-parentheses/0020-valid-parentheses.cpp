@@ -31,7 +31,7 @@ public:
             {
                 if (brackets.size() == 0)
                     return false;
-
+                    
                 if (brackets.top() != '[')
                     break;
                 
