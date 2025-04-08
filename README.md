@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/kugorang/LeetHubv2/tree/master/0742-to-lower-case) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
