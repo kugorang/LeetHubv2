@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/kugorang/LeetHubv2/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kugorang/LeetHubv2/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kugorang/LeetHubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kugorang/LeetHubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/kugorang/LeetHubv2/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kugorang/LeetHubv2/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/kugorang/LeetHubv2/tree/master/3226-minimum-number-game) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-circular-sentence](https://github.com/kugorang/LeetHubv2/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/kugorang/LeetHubv2/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/kugorang/LeetHubv2/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kugorang/LeetHubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/kugorang/LeetHubv2/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kugorang/LeetHubv2/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kugorang/LeetHubv2/tree/master/3412-permutation-difference-between-two-strings) |
