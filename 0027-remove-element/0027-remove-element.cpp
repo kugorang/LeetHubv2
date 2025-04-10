@@ -2,11 +2,10 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         vector<int> newNums;
-        newNums.reserve(nums.size());
 
         int answer = 0;
 
-        for (int &num : nums)
+        for (auto &num : nums)
         {
             if (num != val)
             {
