@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         vector<int> newNums;
-        newNums.reserve(nums.size());
+        newNums.reserve(nums.size() >> 1);
 
         int answer = 0;
 
