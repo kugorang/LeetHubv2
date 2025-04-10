@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/kugorang/LeetHubv2/tree/master/0027-remove-element) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kugorang/LeetHubv2/tree/master/1241-decompress-run-length-encoded-list) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kugorang/LeetHubv2/tree/master/0027-remove-element) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/kugorang/LeetHubv2/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
