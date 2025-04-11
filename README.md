@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/kugorang/LeetHubv2/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kugorang/LeetHubv2/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kugorang/LeetHubv2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kugorang/LeetHubv2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kugorang/LeetHubv2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/1610-xor-operation-in-an-array) |
@@ -267,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kugorang/LeetHubv2/tree/master/2292-counting-words-with-a-given-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
