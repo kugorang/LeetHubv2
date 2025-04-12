@@ -6,7 +6,7 @@ public:
 
         for (unsigned short i = 0; i < loopEnd; ++i)
         {
-            char temp = s[i];
+            unsigned char temp = s[i];
             s[i] = s[sSize - 1 - i];
             s[sSize - 1 - i] = temp;
         }
