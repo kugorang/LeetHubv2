@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kugorang/LeetHubv2/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kugorang/LeetHubv2/tree/master/1241-decompress-run-length-encoded-list) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/kugorang/LeetHubv2/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kugorang/LeetHubv2/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kugorang/LeetHubv2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kugorang/LeetHubv2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kugorang/LeetHubv2/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/kugorang/LeetHubv2/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
@@ -212,10 +216,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kugorang/LeetHubv2/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kugorang/LeetHubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kugorang/LeetHubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kugorang/LeetHubv2/tree/master/2042-maximum-product-difference-between-two-pairs) |
