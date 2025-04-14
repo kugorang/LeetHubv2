@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1797-goal-parser-interpretation](https://github.com/kugorang/LeetHubv2/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/kugorang/LeetHubv2/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/kugorang/LeetHubv2/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/kugorang/LeetHubv2/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kugorang/LeetHubv2/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
