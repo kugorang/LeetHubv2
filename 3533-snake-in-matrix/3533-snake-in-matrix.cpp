@@ -1,7 +1,7 @@
 class Solution {
 public:
     int finalPositionOfSnake(int n, vector<string>& commands) {
-        int xPos = 0, yPos = 0;
+        char xPos = 0, yPos = 0;
 
         for (auto &command : commands)
         {
