@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kugorang/LeetHubv2/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kugorang/LeetHubv2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kugorang/LeetHubv2/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kugorang/LeetHubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/kugorang/LeetHubv2/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/kugorang/LeetHubv2/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kugorang/LeetHubv2/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kugorang/LeetHubv2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kugorang/LeetHubv2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
