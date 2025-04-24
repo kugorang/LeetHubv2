@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kugorang/LeetHubv2/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/kugorang/LeetHubv2/tree/master/1806-count-of-matches-in-tournament) |
+| [2238-a-number-after-a-double-reversal](https://github.com/kugorang/LeetHubv2/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/kugorang/LeetHubv2/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/kugorang/LeetHubv2/tree/master/2556-convert-the-temperature) |
