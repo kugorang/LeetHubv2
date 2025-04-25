@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kugorang/LeetHubv2/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/kugorang/LeetHubv2/tree/master/2727-number-of-senior-citizens) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/kugorang/LeetHubv2/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kugorang/LeetHubv2/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kugorang/LeetHubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kugorang/LeetHubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/kugorang/LeetHubv2/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kugorang/LeetHubv2/tree/master/2442-number-of-arithmetic-triplets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/kugorang/LeetHubv2/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Depth-First Search
 |  |
 | ------- |
