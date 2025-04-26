@@ -1,10 +1,10 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        unsigned short numsSize = nums.size();
+        int numsSize = nums.size();
         int answer = 0;
 
-        for (unsigned short i = 0; i < numsSize - 1; ++i)
+        for (int i = 0; i < numsSize - 1; ++i)
         {
             if (nums[i] >= nums[i + 1])
             {
