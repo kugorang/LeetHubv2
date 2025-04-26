@@ -3,6 +3,9 @@ public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
         vector<vector<int>> answer(2);
 
+        answer[0].reserve(nums2.size());
+        answer[1].reserve(nums1.size());
+
         for (auto &num : nums1)
             if (find(nums2.begin(), nums2.end(), num) == nums2.end())
                 if (find(answer[0].begin(), answer[0].end(), num) == answer[0].end())
