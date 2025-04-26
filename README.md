@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/kugorang/LeetHubv2/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/kugorang/LeetHubv2/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/kugorang/LeetHubv2/tree/master/1899-count-items-matching-a-rule) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kugorang/LeetHubv2/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kugorang/LeetHubv2/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kugorang/LeetHubv2/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/kugorang/LeetHubv2/tree/master/1448-maximum-69-number) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kugorang/LeetHubv2/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kugorang/LeetHubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
