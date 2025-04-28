@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> answer;
-        answer.reserve(nums.size() << 1);
 
         for (auto &num : nums)
         {
