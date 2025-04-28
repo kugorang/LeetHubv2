@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/kugorang/LeetHubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/kugorang/LeetHubv2/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kugorang/LeetHubv2/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/kugorang/LeetHubv2/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/kugorang/LeetHubv2/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2639-separate-the-digits-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/kugorang/LeetHubv2/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/kugorang/LeetHubv2/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/kugorang/LeetHubv2/tree/master/3533-snake-in-matrix) |
