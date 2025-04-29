@@ -1,14 +1,18 @@
 class Solution {
 public:
     int maximizeSum(vector<int>& nums, int k) {
-        sort(nums.begin(), nums.end(), greater<int>());
+        int maxValue = -1;
+
+        for (auto &num : nums)
+            if (num > maxValue)
+                maxValue = num;
 
         int answer = 0;
 
         for (unsigned char i = 0; i < k; ++i)
         {
-            answer += nums[0];
-            nums[0] += 1;
+            answer += maxValue;
+            ++maxValue;
         }
 
         return answer;
