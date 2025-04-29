@@ -5,7 +5,7 @@ public:
 
         int answer = 0;
 
-        for (int i = 0; i < k; ++i)
+        for (unsigned char i = 0; i < k; ++i)
         {
             answer += nums[0];
             nums[0] += 1;
