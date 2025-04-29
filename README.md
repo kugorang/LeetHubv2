@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2639-separate-the-digits-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kugorang/LeetHubv2/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/kugorang/LeetHubv2/tree/master/2727-number-of-senior-citizens) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/kugorang/LeetHubv2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/kugorang/LeetHubv2/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kugorang/LeetHubv2/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kugorang/LeetHubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/kugorang/LeetHubv2/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kugorang/LeetHubv2/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kugorang/LeetHubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/kugorang/LeetHubv2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Counting Sort
 |  |
 | ------- |
