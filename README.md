@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/kugorang/LeetHubv2/tree/master/0728-self-dividing-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kugorang/LeetHubv2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kugorang/LeetHubv2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/kugorang/LeetHubv2/tree/master/1448-maximum-69-number) |
