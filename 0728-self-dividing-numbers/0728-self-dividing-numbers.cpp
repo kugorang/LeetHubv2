@@ -4,7 +4,7 @@ public:
         vector<int> answer;
         answer.reserve(right - left + 1);
 
-        for (int i = left; i <= right; ++i)
+        for (unsigned short i = left; i <= right; ++i)
         {
             int currentNum = i;
             bool isSelfDividing = true;
