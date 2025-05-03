@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2238-a-number-after-a-double-reversal](https://github.com/kugorang/LeetHubv2/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/kugorang/LeetHubv2/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/kugorang/LeetHubv2/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/kugorang/LeetHubv2/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kugorang/LeetHubv2/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/kugorang/LeetHubv2/tree/master/2507-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/kugorang/LeetHubv2/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kugorang/LeetHubv2/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/kugorang/LeetHubv2/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/kugorang/LeetHubv2/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Depth-First Search
 |  |
