@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/kugorang/LeetHubv2/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kugorang/LeetHubv2/tree/master/1241-decompress-run-length-encoded-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kugorang/LeetHubv2/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kugorang/LeetHubv2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kugorang/LeetHubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kugorang/LeetHubv2/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kugorang/LeetHubv2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/kugorang/LeetHubv2/tree/master/0728-self-dividing-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kugorang/LeetHubv2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kugorang/LeetHubv2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kugorang/LeetHubv2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/kugorang/LeetHubv2/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/1610-xor-operation-in-an-array) |
