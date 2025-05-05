@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kugorang/LeetHubv2/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/kugorang/LeetHubv2/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/kugorang/LeetHubv2/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kugorang/LeetHubv2/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/kugorang/LeetHubv2/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/kugorang/LeetHubv2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kugorang/LeetHubv2/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/kugorang/LeetHubv2/tree/master/1899-count-items-matching-a-rule) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/kugorang/LeetHubv2/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/kugorang/LeetHubv2/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/kugorang/LeetHubv2/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kugorang/LeetHubv2/tree/master/1960-check-if-the-sentence-is-pangram) |
