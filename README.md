@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/kugorang/LeetHubv2/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/kugorang/LeetHubv2/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kugorang/LeetHubv2/tree/master/1241-decompress-run-length-encoded-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kugorang/LeetHubv2/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/kugorang/LeetHubv2/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/kugorang/LeetHubv2/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/kugorang/LeetHubv2/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kugorang/LeetHubv2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kugorang/LeetHubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/kugorang/LeetHubv2/tree/master/1635-number-of-good-pairs) |
