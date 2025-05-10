@@ -289,11 +289,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/kugorang/LeetHubv2/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kugorang/LeetHubv2/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/kugorang/LeetHubv2/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/kugorang/LeetHubv2/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kugorang/LeetHubv2/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/kugorang/LeetHubv2/tree/master/2384-root-equals-sum-of-children) |
 ## Enumeration
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/kugorang/LeetHubv2/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kugorang/LeetHubv2/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -320,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/kugorang/LeetHubv2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kugorang/LeetHubv2/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
