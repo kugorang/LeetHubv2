@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/kugorang/LeetHubv2/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kugorang/LeetHubv2/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/kugorang/LeetHubv2/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/kugorang/LeetHubv2/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kugorang/LeetHubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
