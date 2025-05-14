@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kugorang/LeetHubv2/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/kugorang/LeetHubv2/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/kugorang/LeetHubv2/tree/master/0728-self-dividing-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kugorang/LeetHubv2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kugorang/LeetHubv2/tree/master/1421-find-numbers-with-even-number-of-digits) |
