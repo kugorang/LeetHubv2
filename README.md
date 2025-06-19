@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/kugorang/LeetHubv2/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kugorang/LeetHubv2/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/kugorang/LeetHubv2/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/kugorang/LeetHubv2/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/kugorang/LeetHubv2/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/kugorang/LeetHubv2/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kugorang/LeetHubv2/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/kugorang/LeetHubv2/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/kugorang/LeetHubv2/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kugorang/LeetHubv2/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/kugorang/LeetHubv2/tree/master/1708-design-parking-system) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/kugorang/LeetHubv2/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kugorang/LeetHubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/kugorang/LeetHubv2/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
