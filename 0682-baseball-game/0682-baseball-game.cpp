@@ -1,14 +1,10 @@
 class Solution {
 public:
     int calPoints(vector<string>& operations) {
-        int operationsSize = operations.size();
         vector<int> temp;
-        temp.reserve(operationsSize);
 
-        for (int i = 0; i < operationsSize; ++i)
+        for (string str : operations)
         {
-            string str = operations[i];
-
             if (str == "D")
                 temp.push_back(temp.back() << 1);
             else if (str == "C")
