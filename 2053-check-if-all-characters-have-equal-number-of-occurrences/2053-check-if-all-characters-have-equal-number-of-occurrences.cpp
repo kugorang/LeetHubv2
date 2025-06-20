@@ -15,14 +15,13 @@ public:
 
         for (auto &element : um)
         {
-            if (prevNum == -1)
+            if (prevNum != -1)
             {
-                prevNum = element.second;
-                continue;
+                if (element.second != prevNum)
+                    return false;
             }
-                
-            if (element.second != prevNum)
-                return false;
+            else        
+                prevNum = element.second;
         }
 
         return true;
