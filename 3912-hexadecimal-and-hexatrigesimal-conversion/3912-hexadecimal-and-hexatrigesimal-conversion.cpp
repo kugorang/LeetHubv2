@@ -18,9 +18,6 @@ public:
 
     string concatHex36(int n)
     {
-        int hexadecimalValue = n * n;
-        int hexatrigesimalValue = n * n * n;
-        
-        return itoa(hexadecimalValue, 16) + itoa(hexatrigesimalValue, 36);
+        return itoa(n * n, 16) + itoa(n * n * n, 36);
     }
 };
