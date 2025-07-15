@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kugorang/LeetHubv2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/kugorang/LeetHubv2/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/kugorang/LeetHubv2/tree/master/3830-find-closest-person) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/kugorang/LeetHubv2/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/kugorang/LeetHubv2/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/kugorang/LeetHubv2/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/kugorang/LeetHubv2/tree/master/3636-check-balanced-string) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/kugorang/LeetHubv2/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Simulation
 |  |
 | ------- |
