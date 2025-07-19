@@ -3,7 +3,6 @@ public:
     string removeTrailingZeros(string num) {
         int numLength = num.length();
         int lastZeroIndex = -1;
-        string answer;
 
         for (int i = 0; i < numLength; ++i)
             if (num[i] == '0' && (i != 0 && num[i - 1] != '0'))
