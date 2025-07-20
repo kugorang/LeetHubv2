@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-number-of-changing-keys](https://github.com/kugorang/LeetHubv2/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/kugorang/LeetHubv2/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kugorang/LeetHubv2/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/kugorang/LeetHubv2/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3533-snake-in-matrix](https://github.com/kugorang/LeetHubv2/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/kugorang/LeetHubv2/tree/master/3636-check-balanced-string) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/kugorang/LeetHubv2/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2639-separate-the-digits-in-an-array](https://github.com/kugorang/LeetHubv2/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/kugorang/LeetHubv2/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/kugorang/LeetHubv2/tree/master/3226-minimum-number-game) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/kugorang/LeetHubv2/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3533-snake-in-matrix](https://github.com/kugorang/LeetHubv2/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kugorang/LeetHubv2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
