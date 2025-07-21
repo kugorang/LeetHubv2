@@ -17,7 +17,7 @@ public:
             }
 
             if (checkNumCount[numCount])
-                    return false;
+                return false;
                 
             checkNumCount[numCount] = true;
             prevNum = arr[i];
