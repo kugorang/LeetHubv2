@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/kugorang/LeetHubv2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kugorang/LeetHubv2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kugorang/LeetHubv2/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kugorang/LeetHubv2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kugorang/LeetHubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1806-count-of-matches-in-tournament](https://github.com/kugorang/LeetHubv2/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kugorang/LeetHubv2/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kugorang/LeetHubv2/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kugorang/LeetHubv2/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/kugorang/LeetHubv2/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kugorang/LeetHubv2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/kugorang/LeetHubv2/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/kugorang/LeetHubv2/tree/master/2507-number-of-common-factors) |
 ## Heap (Priority Queue)
