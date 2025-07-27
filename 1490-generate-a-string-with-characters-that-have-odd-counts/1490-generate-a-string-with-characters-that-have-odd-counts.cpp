@@ -9,7 +9,7 @@ public:
             --n;
         }
 
-        for (int i = 0; i < n; ++i)
+        for (unsigned short i = 0; i < n; ++i)
             answer.push_back('a');
 
         return answer;
