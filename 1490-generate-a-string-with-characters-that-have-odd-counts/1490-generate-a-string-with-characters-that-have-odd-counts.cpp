@@ -1,7 +1,7 @@
 class Solution {
 public:
     string generateTheString(int n) {
-        string answer = "";
+        string answer = "";;
 
         if (n % 2 == 0)
         {
